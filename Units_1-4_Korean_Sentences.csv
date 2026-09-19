@@ -1,0 +1,43 @@
+﻿Level,Sentence with Blank,Blank Target (Answer),Hint,English Translation,Grammar Point
+beginner,할아버지께서 뉴저지에 사___.,세요,Honorific ending after a verb,Grandfather lives in New Jersey.,-세요/으세요 (honorific)
+beginner,할머니는 한국 요리를 잘 하___.,세요,Honorific ending after 하다,Grandmother is good at Korean cooking.,-세요/으세요 (honorific)
+beginner,아버지께서 책을 읽___.,으세요,Honorific ending after a consonant-ending verb,Father reads a book.,-세요/으세요 (honorific)
+beginner,할아버지는 재미있으시___ 골프를 잘 치세요.,고,Connect two descriptions,Grandfather is fun and plays golf well.,-고 (listing)
+beginner,할머니는 친절하시___ 한국 요리를 잘 하세요.,고,Connect two descriptions,Grandmother is kind and cooks Korean food well.,-고 (listing)
+beginner,오빠는 키가 크___ 똑똑해요.,고,Connect two descriptions,My older brother is tall and smart.,-고 (listing)
+beginner,동생은 재미있___ 귀여워요.,고,Connect two descriptions,My younger sibling is fun and cute.,-고 (listing)
+beginner,누나는 피아노를 치___ 노래를 불러요.,고,Connect two actions,My older sister plays the piano and sings.,-고 (listing)
+beginner,언니는 춤을 추___ 그림을 그려요.,고,Connect two actions,My older sister dances and draws.,-고 (listing)
+beginner,우리 동네에는 공원이 있___.,습니다,Formal polite ending,There is a park in our neighborhood.,-ㅂ니다/습니다
+beginner,공원이 아주 크___.,ㅂ니다,Formal ending after a vowel-ending adjective,The park is very big.,-ㅂ니다/습니다
+beginner,공원에 꽃하고 나무가 많___.,습니다,Formal ending after a consonant-ending adjective,There are many flowers and trees in the park.,-ㅂ니다/습니다
+beginner,공원 안에는 테니스장과 놀이터가 있___.,습니다,Formal polite ending,There is a tennis court and a playground in the park.,-ㅂ니다/습니다
+beginner,우리 동네에 도서관이 있___?,습니까,Formal question ending,Is there a library in our neighborhood?,-ㅂ니까?/습니까?
+beginner,오늘 어디에 갑___?,니까,Formal question ending after 가다,Where are you going today?,-ㅂ니까?/습니까?
+beginner,누구하고 같이 밥을 먹___?,습니까,Formal question ending,Who do you eat with?,-ㅂ니까?/습니까?
+beginner,저는 밥을 먹___ 텔레비전을 봐요.,고,Sequence two actions,I eat and then watch television.,-고 (sequence)
+beginner,아침에 이를 닦___ 세수해요.,고,Sequence two actions,"In the morning, I brush my teeth and wash my face.",-고 (sequence)
+beginner,숙제를 하___ 텔레비전을 볼 거예요.,고,Sequence two actions,I will do my homework and then watch television.,-고 (sequence)
+beginner,수업이 끝나___ 공원에 가요.,고,Sequence two actions,"After class ends, I go to the park.",-고 (sequence)
+beginner,배가 아파___ 학교에 못 갔어요.,서,Reason after 아프다 → 아파서,I couldn't go to school because my stomach hurt.,-아서/어서 (reason)
+beginner,비가 와___ 놀이터에 못 가요.,서,Reason after 오다 → 와서,I can't go to the playground because it is raining.,-아서/어서 (reason)
+beginner,숙제가 많아___ 게임을 못 해요.,서,Reason after 많다 → 많아서,I can't play games because I have a lot of homework.,-아서/어서 (reason)
+beginner,늦게 일어나___ 아침을 못 먹었어요.,서,Reason after 일어나다,I couldn't eat breakfast because I woke up late.,-아서/어서 (reason)
+beginner,버스를 잘못 타___ 늦었어요.,서,Reason after 타다 → 타서,I was late because I took the wrong bus.,-아서/어서 (reason)
+beginner,저는 오늘 수영을 ___ 해요.,못,Put before the verb to express inability,I can't swim today.,못 (cannot)
+beginner,저는 매운 음식을 ___ 먹어요.,못,Put before the verb,I can't eat spicy food.,못 (cannot)
+beginner,오늘 친구를 ___ 만나요.,못,Put before the verb,I can't meet my friend today.,못 (cannot)
+beginner,약속을 못 지켜___ 미안해.,서,Give a reason for apologizing,I'm sorry because I couldn't keep my promise.,-아서/어서 (reason)
+intermediate,다은이는 카일의 상황을 이해해___ 괜찮다고 했어요.,서,Connect a reason to the result,"Da-eun understood Kyle's situation, so she said it was okay.",-아서/어서 (reason)
+beginner,책을 읽___ 도서관에 가요.,으러,Purpose after consonant-ending verb,I go to the library to read a book.,-러/으러 가다
+beginner,약을 사___ 약국에 가요.,러,Purpose after vowel-ending verb,I go to the pharmacy to buy medicine.,-러/으러 가다
+beginner,밥을 먹___ 식당에 가요.,으러,Purpose after consonant-ending verb,I go to a restaurant to eat.,-러/으러 가다
+beginner,영화를 보___ 영화관에 가요.,러,Purpose after vowel-ending verb,I go to the movie theater to watch a movie.,-러/으러 가다
+beginner,친구를 만나___ 카페에 가요.,러,Purpose after vowel-ending verb,I go to a cafe to meet a friend.,-러/으러 가다
+beginner,숙제를 할 ___ 음악을 들어요.,때,Means 'when',I listen to music when I do homework.,-ㄹ/을 때 (when)
+beginner,학교에 갈 ___ 친구를 만나요.,때,Means 'when',I meet my friend when I go to school.,-ㄹ/을 때 (when)
+beginner,심심할 ___ 책을 읽어요.,때,Means 'when',I read a book when I am bored.,-ㄹ/을 때 (when)
+beginner,배가 고플 ___ 밥을 먹어요.,때,Means 'when',I eat when I am hungry.,-ㄹ/을 때 (when)
+beginner,아플 ___ 약을 먹어요.,때,Means 'when',I take medicine when I am sick.,-ㄹ/을 때 (when)
+beginner,선물을 받을 ___ 행복해요.,때,Means 'when',I am happy when I receive a gift.,-ㄹ/을 때 (when)
+beginner,무서운 영화를 볼 ___ 무서워요.,때,Means 'when',I feel scared when I watch a scary movie.,-ㄹ/을 때 (when)
